@@ -40,6 +40,3 @@ Testing for Strong, Moderate, and Weak Passwords: <br/>
 1. **Run the Script**: Input your password when prompted.
 2. **View Feedback**: The script will return whether your password is weak, moderate, or strong based on the criteria.
 
----
-
-This markdown provides an overview of the project and includes visual aids to enhance understanding.
