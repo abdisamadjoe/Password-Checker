@@ -18,15 +18,15 @@ This project is a Python-based tool that assesses the complexity of passwords. I
 
 <p align="center">
 Code Overview: <br/>
-<img src="https://i.imgur.com/yourimage.png" height="80%" width="80%" alt="Password Complexity Checker Code Overview"/>
+<img src="https://github.com/user-attachments/assets/aa91d9b6-9557-4595-8157-7c14b7762f91" height="80%" width="80%" alt="Password Complexity Checker Code Overview"/>
 <br />
 <br />
 Testing for Strong, Moderate, and Weak Passwords: <br/>
-<img src="https://i.imgur.com/yourimage1.png" height="80%" width="80%" alt="Testing Strong Password"/>
+<img src="https://github.com/user-attachments/assets/42648c04-d60e-4581-81aa-3e92f036fb2a" height="80%" width="80%" alt="Testing Strong Password"/>
 <br />
-<img src="https://i.imgur.com/yourimage2.png" height="80%" width="80%" alt="Testing Moderate Password"/>
+<img src="https://github.com/user-attachments/assets/78ff35f4-64a9-4264-a533-12c149069ee4" height="80%" width="80%" alt="Testing Moderate Password"/>
 <br />
-<img src="https://i.imgur.com/yourimage3.png" height="80%" width="80%" alt="Testing Weak Password"/>
+<img src="https://github.com/user-attachments/assets/fcd343f1-129f-43c0-a6d1-c5963206bce6" height="80%" width="80%" alt="Testing Weak Password"/>
 </p>
 
 ## How It Works:
